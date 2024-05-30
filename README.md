@@ -5,7 +5,7 @@ idea is traing the maschein with german stock and fanancial news to predict/ fin
 
 steps:
 
-1.data scraping from webset :https://www.finanzen.net/nachrichten/land/deutschland
+1.data scraping from webset :https://www.manager-magazin.de/unternehmen/
 
 2.get start with finGPT:
 https://colab.research.google.com/drive/12SqrGWWg2ucHCu0h_ktLyO9q4qPPoqB7
